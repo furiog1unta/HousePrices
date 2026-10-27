@@ -1,3 +1,4 @@
 notes.txt
 .vscode
 notebooks/catboost_info
+best_model.pt
